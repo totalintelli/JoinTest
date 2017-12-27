@@ -1,0 +1,6 @@
+E:\Projects\JoinTest\JoinTest\bin\Debug\JoinTest.exe.config
+E:\Projects\JoinTest\JoinTest\bin\Debug\JoinTest.exe
+E:\Projects\JoinTest\JoinTest\bin\Debug\JoinTest.pdb
+E:\Projects\JoinTest\JoinTest\obj\Debug\JoinTest.csprojResolveAssemblyReference.cache
+E:\Projects\JoinTest\JoinTest\obj\Debug\JoinTest.exe
+E:\Projects\JoinTest\JoinTest\obj\Debug\JoinTest.pdb
